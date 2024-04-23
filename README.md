@@ -1,1 +1,1 @@
-an archive of Mediapipe usage for the MADS dataset
+An archive of Mediapipe usage for the MADS dataset
